@@ -1,0 +1,9 @@
+{
+	"file" : "scene.json",
+	"templateoptions": [{
+		"type": "replacetexture",
+		"name": "Flag image",
+		"description": "Replace the image shown on the flag.",
+		"destination": "materials/flag_texture.png"
+	}]
+}

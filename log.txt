@@ -1,0 +1,36 @@
+2018-10-25T21:44:41Z: NVAPI init: OK
+2018-10-25T21:44:41Z: NvAPI_DRS_CreateSession: 0
+2018-10-25T21:44:42Z: NvAPI_DRS_LoadSettings: 0
+2018-10-25T21:44:42Z: NvAPI_DRS_FindProfileByName: -163
+2018-10-25T21:44:42Z: NvAPI_DRS_CreateProfile: 0
+2018-10-25T21:44:42Z: NvAPI_DRS_CreateApplication wallpaper32.exe: 0
+2018-10-25T21:44:42Z: NvAPI_DRS_CreateApplication wallpaper64.exe: 0
+2018-10-25T21:44:42Z: NvAPI_DRS_FindProfileByName: -163
+2018-10-25T21:44:42Z: NvAPI_DRS_CreateProfile: 0
+2018-10-25T21:44:42Z: NvAPI_DRS_CreateApplication ui32.exe: 0
+2018-10-25T21:44:42Z: NvAPI_DRS_SaveSettings: 0
+2018-10-25T21:44:42Z: NVAPI success: 1
+2018-10-25T21:56:23Z: NVAPI init: OK
+2018-10-25T21:56:23Z: NvAPI_DRS_CreateSession: 0
+2018-10-25T21:56:24Z: NvAPI_DRS_LoadSettings: 0
+2018-10-25T21:56:24Z: NvAPI_DRS_FindProfileByName: 0
+2018-10-25T21:56:24Z: Profile Wallpaper Engine found, not overwriting.
+2018-10-25T21:56:24Z: NvAPI_DRS_CreateApplication wallpaper32.exe: -1
+2018-10-25T21:56:24Z: NvAPI_DRS_CreateApplication wallpaper64.exe: -1
+2018-10-25T21:56:24Z: NvAPI_DRS_FindProfileByName: 0
+2018-10-25T21:56:24Z: Profile Wallpaper Engine UI found, overwriting.
+2018-10-25T21:56:24Z: NvAPI_DRS_CreateApplication ui32.exe: -1
+2018-10-25T21:56:24Z: NvAPI_DRS_SaveSettings: 0
+2018-10-25T21:56:24Z: NVAPI success: 1
+2018-10-25T22:04:42Z: NVAPI init: OK
+2018-10-25T22:04:42Z: NvAPI_DRS_CreateSession: 0
+2018-10-25T22:04:42Z: NvAPI_DRS_LoadSettings: 0
+2018-10-25T22:04:42Z: NvAPI_DRS_FindProfileByName: 0
+2018-10-25T22:04:42Z: Profile Wallpaper Engine found, not overwriting.
+2018-10-25T22:04:42Z: NvAPI_DRS_CreateApplication wallpaper32.exe: -1
+2018-10-25T22:04:42Z: NvAPI_DRS_CreateApplication wallpaper64.exe: -1
+2018-10-25T22:04:42Z: NvAPI_DRS_FindProfileByName: 0
+2018-10-25T22:04:42Z: Profile Wallpaper Engine UI found, overwriting.
+2018-10-25T22:04:42Z: NvAPI_DRS_CreateApplication ui32.exe: -1
+2018-10-25T22:04:42Z: NvAPI_DRS_SaveSettings: 0
+2018-10-25T22:04:42Z: NVAPI success: 1

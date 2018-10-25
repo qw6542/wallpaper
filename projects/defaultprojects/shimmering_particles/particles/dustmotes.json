@@ -1,0 +1,54 @@
+{
+	"material": "materials/particle/dustmote.json",
+	"maxcount": 200,
+	"starttime": 50,
+	"emitter": [{
+		"name": "sphererandom",
+		"rate": 40,
+		"origin": "3200 540 0",
+		"directions" : "1.8 0.2 1",
+		"distancemin": 0,
+		"distancemax": 2500
+	}],
+	"initializer": [{
+		"name": "lifetimerandom",
+		"min": 48,
+		"max": 70
+	}, {
+		"name": "sizerandom",
+		"min": 80,
+		"max": 2000
+	}, {
+		"name": "velocityrandom",
+		"min": "-3 -3 0",
+		"max": "-17 3 0"
+	}, {
+		"name": "colorrandom",
+		"min": "0 0 0",
+		"max": "255 255 255"
+	}],
+	"operator": [{
+		"name": "movement",
+		"gravity": "0 0 0"
+	}, {
+		"name": "oscillateposition",
+		"mask": "0.3 0.5 0",
+		"scalemin": 20,
+		"scalemax": 35,
+		"frequencymin": 0.1,
+		"frequencymax": 0.6,
+		"phasemin": 0,
+		"phasemax": 1
+	}, {
+		"name": "alphafade",
+		"fadeintime": 0.1
+	}, {
+		"name": "oscillatealpha",
+		"scalemin": 0.3,
+		"scalemax": 1,
+		"frequencymin": 0.2,
+		"frequencymax": 1,
+		"phasemin": 0,
+		"phasemax": 1
+	}]
+}
